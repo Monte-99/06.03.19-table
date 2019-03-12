@@ -1,0 +1,32 @@
+table, th, td {
+    border: 1px solid black;
+    color: bisque;
+    border: 3px solid bisque;
+    padding: 15px;
+    /* border-collapse: collapse; */
+    border-radius: 25px;
+    border-spacing: 15px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  table{
+    width: 75%;
+    margin: auto;
+}
+body{
+    background-color: black;
+}
+td{
+    font-size: 30px ;
+    text-align: center;
+}
+th{
+    font-size: 40px;
+}
+caption{
+    font-size: 75px;
+    color: blue;
+    font-family: cursive;
+}
+.part2{
+    border-collapse: collapse;
+}
